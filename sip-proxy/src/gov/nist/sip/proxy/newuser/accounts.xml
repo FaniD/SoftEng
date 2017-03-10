@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ACCOUNTS>
+	<USER nickname="fani">
+		<Name>Fani</Name>
+		<Surname>Dimou</Surname>
+		<Email>fani.dimou92@gmail.com</Email>
+		<Address>Galatsi</Address>
+	</USER>
+
+        <USER nickname="roula">
+                <Name>Sotiria</Name>
+                <Surname>Kuriakopoylou</Surname>
+                <Email>flafy@gmail.com</Email>
+                <Address>Galatsi</Address>
+        </USER>
+</ACCOUNTS>
+

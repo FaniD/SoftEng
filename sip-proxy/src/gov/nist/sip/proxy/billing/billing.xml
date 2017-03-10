@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<BILLING>
+<BILL user="fani">
+<total_cost>2</total_cost>
+</BILL>
+
+<BILL user="roula">
+<total_cost>3</total_cost>
+</BILL>
+</BILLING>
+

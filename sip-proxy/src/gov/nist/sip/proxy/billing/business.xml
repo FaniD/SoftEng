@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<BUSINESS>
+<BIZ user="fani">
+<partner>roula</partner>
+<partner>andriana</partner>
+</BIZ>
+
+<BIZ user="maria">
+<partner>marina</partner>
+<partner>margarita</partner>
+</BIZ>
+
+<BIZ user="roula">
+<partner>fani</partner>
+</BIZ>
+</BUSINESS>
+

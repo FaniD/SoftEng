@@ -1,0 +1,273 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ACCOUNTS>
+	<USER nickname="fani">
+		<Name>Fani</Name>
+		<Surname>Dimou</Surname>
+		<Email>fani.dimou92@gmail.com</Email>
+		<Address>Galatsi</Address>
+	</USER>
+
+        <USER nickname="roula">
+                <Name>Sotiria</Name>
+                <Surname>Kuriakopoylou</Surname>
+                <Email>flafy@gmail.com</Email>
+                <Address>Galatsi</Address>
+        </USER>
+
+        <USER nickname="maria">
+                <Name>Maria</Name>
+                <Surname>Leontaridou</Surname>
+                <Email>maria@gmail.com</Email>
+                <Address>Elliniko</Address>
+        </USER>
+
+	<USER nickname="marina">
+                <Name>Marina</Name>
+                <Surname>Korasi</Surname>
+                <Email>marina@gmail.com</Email>
+                <Address>Lamprini</Address>
+        </USER>
+	
+	<USER nickname="margarita">
+                <Name>Margarita</Name>
+                <Surname>Korasi</Surname>
+                <Email>margarita@gmail.com</Email>
+                <Address>Nea Filadelfeia</Address>
+        </USER>
+	
+	<USER nickname="eleni">
+                <Name>Eleni</Name>
+                <Surname>Karidi</Surname>
+                <Email>eleni@gmail.com</Email>
+                <Address>Agia Paraskeui</Address>
+        </USER>
+	
+	<USER nickname="sofia">
+                <Name>Sofia</Name>
+                <Surname>Mintzia</Surname>
+                <Email>sofiam@gmail.com</Email>
+                <Address>Nea Iwnia</Address>
+        </USER>
+	<USER nickname="katerina">
+                <Name>Katerina</Name>
+                <Surname>Mauroeidi</Surname>
+                <Email>katerina@gmail.com</Email>
+                <Address>Kupseli</Address>
+        </USER>
+
+	<USER nickname="natasa">
+                <Name>Natasa</Name>
+                <Surname>Kourou</Surname>
+                <Email>natasa@gmail.com</Email>
+                <Address>Xalandri</Address>
+        </USER>
+
+	<USER nickname="babis">
+                <Name>Babis</Name>
+                <Surname>Shfakis</Surname>
+                <Email>babis@gmail.com</Email>
+                <Address>Xania</Address>
+        </USER>
+	
+	<USER nickname="aggeliki">
+                <Name>Aggeliki</Name>
+                <Surname>Patiri</Surname>
+                <Email>aggeliki@gmail.com</Email>
+                <Address>Loutsa</Address>
+        </USER>
+
+	<USER nickname="sia">
+                <Name>Sia</Name>
+                <Surname>Valsamou</Surname>
+                <Email>sia@gmail.com</Email>
+                <Address>Agia Marina</Address>
+        </USER>
+
+	<USER nickname="sofi">
+                <Name>Sofi</Name>
+                <Surname>Rapti</Surname>
+                <Email>sofi@gmail.com</Email>
+                <Address>Pakrati</Address>
+        </USER>
+
+	<USER nickname="panagiotis">
+                <Name>Panagiotis</Name>
+                <Surname>Valsamos</Surname>
+                <Email>panos@gmail.com</Email>
+                <Address>Agia Marina</Address>
+        </USER>
+
+	<USER nickname="efi">
+                <Name>Efi</Name>
+                <Surname>Tsika</Surname>
+                <Email>efi@gmail.com</Email>
+                <Address>Hlioupolh</Address>
+        </USER>
+	
+	<USER nickname="nikos">
+                <Name>Nikos</Name>
+                <Surname>Kyriakopoulos</Surname>
+                <Email>nick@gmail.com</Email>
+                <Address>Kalavryta</Address>
+        </USER>
+
+	<USER nickname="giorgos">
+                <Name>Giorgos</Name>
+                <Surname>Tsikas</Surname>
+                <Email>george@gmail.com</Email>
+                <Address>Hlioupolh</Address>
+        </USER>
+	
+	<USER nickname="popi">
+                <Name>Popi</Name>
+                <Surname>Abramopoulou</Surname>
+                <Email>popi@gmail.com</Email>
+                <Address>Aigaleo</Address>
+        </USER>
+	
+	<USER nickname="tzoulia">
+                <Name>Tzoulia</Name>
+                <Surname>Kuriakopoulou</Surname>
+                <Email>marouli@gmail.com</Email>
+                <Address>Galatsi</Address>
+        </USER>
+	
+	<USER nickname="eirini">
+                <Name>Eirini</Name>
+                <Surname>Kyriakopoulou</Surname>
+                <Email>fatsoula@gmail.com</Email>
+                <Address>Galatsi</Address>
+        </USER>
+	
+	<USER nickname="gewrgia">
+                <Name>Gewrgia</Name>
+                <Surname>Maxaira</Surname>
+                <Email>georgia@gmail.com</Email>
+                <Address>Agioi Thewdwroi</Address>
+        </USER>
+	
+	<USER nickname="vasilis">
+                <Name>Vasilis</Name>
+                <Surname>Tsikas</Surname>
+                <Email>bill@gmail.com</Email>
+                <Address>Pakrati</Address>
+        </USER>
+	
+	
+	<USER nickname="marinos">
+                <Name>Marinos</Name>
+                <Surname>Patiris</Surname>
+                <Email>marinos@gmail.com</Email>
+                <Address>Loutsa</Address>
+        </USER>
+	
+	<USER nickname="fotis">
+                <Name>Fotis</Name>
+                <Surname>Dhmou</Surname>
+                <Email>fotis@gmail.com</Email>
+                <Address>Psuxiko</Address>
+        </USER>
+<USER nickname="xm">
+<Name>aj</Name>
+<Surname>j</Surname>
+<Email>j</Email>
+<Address>j</Address>
+</USER>
+<USER nickname="ahhde">
+<Name/>
+<Surname/>
+<Email/>
+<Address/>
+</USER>
+<USER nickname="test">
+<Name>j</Name>
+<Surname>k</Surname>
+<Email>k</Email>
+<Address>k</Address>
+</USER>
+<USER nickname="testing">
+<Name>j</Name>
+<Surname>j</Surname>
+<Email>j</Email>
+<Address>j</Address>
+</USER>
+<USER nickname="haha">
+<Name>h</Name>
+<Surname>h</Surname>
+<Email>h</Email>
+<Address>h</Address>
+</USER>
+<USER nickname="am">
+<Name>k</Name>
+<Surname>k</Surname>
+<Email>k</Email>
+<Address>k</Address>
+</USER>
+<USER nickname="let">
+<Name>h</Name>
+<Surname>h</Surname>
+<Email>h</Email>
+<Address>h</Address>
+</USER>
+<USER nickname="ka">
+<Name>l</Name>
+<Surname>l</Surname>
+<Email>l</Email>
+<Address>l</Address>
+</USER>
+<USER nickname="ok">
+<Name>ok</Name>
+<Surname>kk</Surname>
+<Email>k</Email>
+<Address>k</Address>
+</USER>
+<USER nickname="axa">
+<Name>l</Name>
+<Surname>ll</Surname>
+<Email>l</Email>
+<Address>l</Address>
+</USER>
+<USER nickname="new">
+<Name>my</Name>
+<Surname>name</Surname>
+<Email>is</Email>
+<Address>lala</Address>
+</USER>
+<USER nickname="hello">
+<Name>am</Name>
+<Surname>new</Surname>
+<Email>over</Email>
+<Address>here</Address>
+</USER>
+<USER nickname="axem">
+<Name>you</Name>
+<Surname>are</Surname>
+<Email>again</Email>
+<Address>dw</Address>
+</USER>
+<USER nickname="jaja">
+<Name>j</Name>
+<Surname>j</Surname>
+<Email>jj</Email>
+<Address>j</Address>
+</USER>
+<USER nickname="newuser">
+<Name>j</Name>
+<Surname>j</Surname>
+<Email>j</Email>
+<Address>j</Address>
+</USER>
+<USER nickname="sign">
+<Name>yser</Name>
+<Surname>h</Surname>
+<Email>h</Email>
+<Address>h</Address>
+</USER>
+<USER nickname="oa">
+<Name>o</Name>
+<Surname>o</Surname>
+<Email>o</Email>
+<Address>o</Address>
+</USER>
+</ACCOUNTS>
+

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<FRIENDS>
+
+<friendship user="fani">
+<friend>maria</friend>
+<friend>marilena</friend>
+<friend>andriana</friend>
+</friendship>
+
+<friendship user="roula">
+<friend>kourou</friend>
+<friend>katerina</friend>
+<friend>sofia</friend>
+<friend>dimitra</friend>
+<friend>maria</friend>
+</friendship>
+
+</FRIENDS>
+

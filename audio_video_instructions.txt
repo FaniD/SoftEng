@@ -1,0 +1,7 @@
+1. Window -> Preferences -> Installed JREs -> add your java jre (java 1.8)
+2. Right click to Sip-Proxy and Sip-Communicator -> Properties -> Java Compiler -> Your java (ex 1.8)
+3. Find the path java is running file (ex. /usr/lib/jvm/java-8-openjdk-amd64/bin/) and put the .so files in its lib (ex. /usr/lib/jvm/java-8-openjdk-amd64/lib/amd64/)
+4. sudo vim /etc/hosts: Write your IP and user (for proxy)
+5. When I run Sip-Communicator:
+   Run Configurations->Environment->New->Name: LD_LIBRARY_PATH, value: the lib path I found+"libjmv4l.so" and Run
+6. If you're using the same IP for 2 Sip-Communicator remember to change Audio and Video ports

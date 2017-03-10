@@ -1,0 +1,5 @@
+Proxy program arguments:
+-cf gov/nist/sip/proxy/configuration/configuration.xml
+
+Communicator VM arguments:
+-Djava.library.path=./lib
